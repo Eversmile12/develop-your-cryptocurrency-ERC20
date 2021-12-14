@@ -5,8 +5,8 @@
 This repository is related to the [How To Develop a Cryptocurrency - The Complete Guide (2022)](https://vitto.cc/how-to-develop-a-cryptocurrency-the-complete-2022-guide/) tutorial. It contains the boilerplates code for a functioning ERC20 Token - Crypto.
 
 ## Prerequisites
-- VSCode
-- MetaMask
+- **VSCode**
+- **MetaMask**
 
 ## Installation
 
@@ -21,10 +21,6 @@ Compile the Smart Contracts:
 npx hardhat compile
 ```
 
-You have two ways to interact with the NFT Marketplace:
-- Locally using Hardhat
-- Deploying the contracts on Polygon Mumbai-testnet
-
 ## Deploy the Token on Polygon Mumbai
 Everything explained above is extensively explained in the [How To Develop a Cryptocurrency - The Complete Guide (2022)](https://vitto.cc/how-to-develop-a-cryptocurrency-the-complete-2022-guide/) 
 
@@ -34,7 +30,7 @@ Everything explained above is extensively explained in the [How To Develop a Cry
 
 ![image](https://user-images.githubusercontent.com/72762629/144294242-be8c53d2-c927-427a-8a14-ca4e90e1641e.png)
 
-4. Grab you Polygon Mumbai Testnet URL on Alchemy.com 
+4. Grab you **Polygon Mumbai Testnet** URL on [Alchemy](https://www.alchemy.com/)
 5. Substitute "YOUR ALCHEMY POLYGON MUMBAI ENDPOINT" with your URL
 6. Get some test MATIC from an online faucet such as [this one](https://faucet.polygon.technology/)
 
