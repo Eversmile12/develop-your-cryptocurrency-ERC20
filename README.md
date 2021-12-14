@@ -1,5 +1,6 @@
-# Create Your Cryptocurrency Tutorial Tutorial
-![image](https://user-images.githubusercontent.com/72762629/144294953-794143cc-d00c-4176-96d9-4d5c1aea9b64.png)
+# Create Your Cryptocurrency Tutorial
+![image](https://user-images.githubusercontent.com/72762629/146063511-59d75107-927a-4633-af3f-38ba2a9b4fdf.png)
+
 
 This repository is related to the [How To Develop a Cryptocurrency - The Complete Guide (2022)](https://vitto.cc/how-to-develop-a-cryptocurrency-the-complete-2022-guide/) tutorial. It contains the boilerplates code for a functioning ERC20 Token - Crypto.
 
